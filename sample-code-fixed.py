@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 #This is a countdown from an integer program using Python 3.4.0#
 
 #A string value is assigned to 'first_num' while user sees on the screen 'Please input first number'#
@@ -42,24 +41,3 @@ print ("All done!")
 #0
 #All done!
 #=> None
-=======
-
-clear
-Python 3.4.0 (default, Apr 11 2014, 13:05:11)
-[GCC 4.8.2] on linux
-   
-Please input first number:  5
-Please input second number:  1
-Now I will add your two numbers: 6
-Pretty cool, huh?
-Now I'll count backwards from 6
-6
-5
-4
-3
-2
-1
-0
-All done!
-=> None
->>>>>>> Stashed changes
