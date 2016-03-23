@@ -1,15 +1,12 @@
 #This is a countdown from an integer program using Python 3.4.0#
 
-#A string value is assigned to 'first_num' while user sees on the screen 'Please input first number *#
+#A string value is assigned to 'first_num' while user sees on the screen 'Please input first number'#
 first_num = input("Please input first number: ")
-
-#A string value is assigned to 'sec_num' while user sees on the screen 'Please input second number #
+#A string value is assigned to 'sec_num' while user sees on the screen 'Please input second number'#
 sec_num = input("Please input second number: ")
-
-#'first_num' and 'sec_num' are added and converted from string to integer and stored into answer variable*#
+#'first_num' and 'sec_num' are added and converted from string to integer and stored into answer variable#
 answer = int(first_num) + int(sec_num)
-
-#Output on screen will show 'Now I will add your two numbers' and then output int variable stored in answer #
+#Output on screen will show 'Now I will add your two numbers' and then output int variable stored in answer#
 print ("Now I will add your two numbers:", answer)
 #Output on screen 'Pretty cool, huh?'#
 print ("Pretty cool, huh?")
