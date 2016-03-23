@@ -1,0 +1,11 @@
+first_num = input("Please input first number: ")
+sec_num = input("Please input second number: ")
+answer = int(first_num) + int(sec_num)
+print ("Now I will add your two numbers:"), answer
+print ("Pretty cool, huh?")
+print ("Now I'll count backwards from"), answer
+counter = int(answer)
+while (counter >= 0):
+ print (counter)
+ counter = counter - 1
+print ("All done!")
